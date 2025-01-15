@@ -1,0 +1,164 @@
+[
+    {
+        "id": "c9c46028-c997-4bd0-b31b-fc8b8b2c62f2",
+        "name": "Wireless Bluetooth Speaker",
+        "price": "2406.58",
+        "image": "https://m.media-amazon.com/images/I/41bckF0Tk+L._SY300_SX300_.jpg",
+        "inStock": 15,
+        "fastDelivery": false,
+        "ratings": 4
+    },
+    {
+        "id": "25d4af81-8e35-4fd0-974f-bfb6c8e3e9fb",
+        "name": "ANC Headphones",
+        "price": "4490.51",
+        "image": "https://m.media-amazon.com/images/I/41jcCpExIzL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 3
+    },
+    {
+        "id": "f45a6e0d-856d-4d71-862c-8b42b73b42dd",
+        "name": "Smart LED TV",
+        "price": "39500.31",
+        "image": "https://m.media-amazon.com/images/I/81u+lUSZRDL._SL1500_.jpg",
+        "inStock": 15,
+        "fastDelivery": false,
+        "ratings": 1
+    },
+    {
+        "id": "7a64bbf1-ca62-4087-bf9d-6a3381748fdd",
+        "name": "Gaming Laptop",
+        "price": "85384.32",
+        "image": "https://m.media-amazon.com/images/I/4144VzbbZ6L._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 15,
+        "fastDelivery": false,
+        "ratings": 5
+    },
+    {
+        "id": "cc23364b-7d9a-4172-bd88-c7891fbbdbf3",
+        "name": "Ergonomic Office Chair",
+        "price": "5472.68",
+        "image": "https://m.media-amazon.com/images/I/41oOr8FeHBL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 15,
+        "fastDelivery": false,
+        "ratings": 1
+    },
+    {
+        "id": "42525445-32cd-435d-9f39-0062e1ae4508",
+        "name": "Electric Kettle",
+        "price": "3225.88",
+        "image": "https://m.media-amazon.com/images/I/31Oshk5LT+L._SY300_SX300_.jpg",
+        "inStock": 0,
+        "fastDelivery": true,
+        "ratings": 1
+    },
+    {
+        "id": "f07f3689-d385-48f6-bc95-ad42840fc81a",
+        "name": "4K Action Camera",
+        "price": "45339.19",
+        "image": "https://m.media-amazon.com/images/I/41GPUQEPRAL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 15,
+        "fastDelivery": false,
+        "ratings": 5
+    },
+    {
+        "id": "2d5f0a6d-fb81-4eb4-a1c4-5ae4edc0c912",
+        "name": "Portable Air Purifier",
+        "price": "6291.03",
+        "image": "https://m.media-amazon.com/images/I/410yDEM3osL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 0,
+        "fastDelivery": false,
+        "ratings": 3
+    },
+    {
+        "id": "83bbcb2e-8bfa-4a5e-95c6-cdf80b4717af",
+        "name": "Digital DSLR Camera",
+        "price": "80378.02",
+        "image": "https://m.media-amazon.com/images/I/31fdYxuLUOL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 10,
+        "fastDelivery": true,
+        "ratings": 1
+    },
+    {
+        "id": "e29f3bae-9ab3-4604-9c20-03b5e00ef591",
+        "name": "Fitness Tracker",
+        "price": "1772.94",
+        "image": "https://m.media-amazon.com/images/I/61qIlFz9faL._SL1500_.jpg",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 4
+    },
+    {
+        "id": "7d477cce-e842-4e00-8f22-435409187c9f",
+        "name": "Smartphone",
+        "price": "89899.80",
+        "image": "https://m.media-amazon.com/images/I/31KxpX7Xk7L._SY445_SX342_QL70_FMwebp_.jpg",
+        "inStock": 0,
+        "fastDelivery": true,
+        "ratings": 1
+    },
+    {
+        "id": "0615e24d-5bee-424f-ba70-d23424d0ef2e",
+        "name": "Portable Hard Drive",
+        "price": "8099.09",
+        "image": "https://m.media-amazon.com/images/I/31XSW15lDAL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 10,
+        "fastDelivery": false,
+        "ratings": 4
+    },
+    {
+        "id": "ca24ff05-f77f-45f1-afb0-e5d732b22a68",
+        "name": "Wi-Fi Router",
+        "price": "4747.38",
+        "image": "https://m.media-amazon.com/images/I/31e4QD7ghKL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 3,
+        "fastDelivery": true,
+        "ratings": 1
+    },
+    {
+        "id": "5f5e4938-657d-4e7e-9b21-38677643c1d4",
+        "name": "Cordless Vacuum Cleaner",
+        "price": "5425.48",
+        "image": "https://m.media-amazon.com/images/I/31lKPKYSH0L._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 15,
+        "fastDelivery": true,
+        "ratings": 4
+    },
+    {
+        "id": "87cb3a0a-f32f-439f-a2fc-e3ae24b54818",
+        "name": "Bluetooth Earbuds",
+        "price": "4585.46",
+        "image": "https://m.media-amazon.com/images/I/31--vXLTVBL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 3,
+        "fastDelivery": true,
+        "ratings": 1
+    },
+    {
+        "id": "1b618c39-3b84-4618-b918-185201041d9c",
+        "name": "Tablet with Stylus",
+        "price": "9427.33",
+        "image": "https://m.media-amazon.com/images/I/31JuXYPsUCL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 3,
+        "fastDelivery": true,
+        "ratings": 1
+    },
+    {
+        "id": "0a558d15-fe28-4683-9157-b3f0a53a8895",
+        "name": "Coffee Maker",
+        "price": "4397.52",
+        "image": "https://m.media-amazon.com/images/I/41x-7TvD7FL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 5,
+        "fastDelivery": true,
+        "ratings": 5
+    },
+    {
+        "id": "f59fc82f-1802-4ac8-ba7b-9f85f29c71ff",
+        "name": "Gaming Console",
+        "price": "8245.30",
+        "image": "https://m.media-amazon.com/images/I/316x91588NL._SX300_SY300_QL70_FMwebp_.jpg",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 4
+    }
+]
